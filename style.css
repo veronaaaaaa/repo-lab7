@@ -1,0 +1,109 @@
+h1 {
+  text-align: center;
+  color: rgba(18, 159, 163, 0.637);
+}
+body {
+  background-color: rgba(70, 20, 23, 0.397);
+}
+.main {
+  width: 555px;
+  height: 1060px;
+  margin: 0 auto;
+}
+.photo {
+  clear: both;
+  float: left;
+  
+}
+.me {
+  background-color: rgba(248, 217, 235, 0.651);
+  
+  
+  padding: 4px;
+  margin: 4px;
+  
+}
+.kontakt {
+  background-color: rgba(248, 217, 235, 0.651);
+  float:left;
+  width: 260px;
+  clear: both;
+  padding: 4px;
+  margin: 4px;
+
+}
+
+.langyage {
+  background-color: rgba(248, 217, 235, 0.651);
+  width: 260px;
+  float:left;
+  clear: both;
+  padding: 4px;
+  margin: 4px;
+}
+.obr {
+  background-color: rgba(248, 217, 235, 0.651);
+  height: 190px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  padding: 3px;
+  margin: 3px;
+  
+}
+.napr {
+  background-color: rgba(248, 217, 235, 0.651);
+  width: 260px;
+  float:left;
+  clear: both;
+  padding: 4px;
+  margin: 4px;
+}
+.nav {
+  background-color: rgba(248, 217, 235, 0.651);
+  
+  width: 260px;
+  
+  display: flex;
+  flex-direction: column;
+  
+ 
+  padding: 4px;
+  margin: 4px;
+
+ 
+  
+}
+.pr {
+  background-color: rgba(248, 217, 235, 0.651);
+  width: 260px;
+  float:left;
+  clear: both;
+  padding: 4px;
+  margin: 4px;
+}
+
+.hobby {
+  background-color: rgba(248, 217, 235, 0.651);
+  width: 260px;
+  float:left;
+  clear: both;
+  padding: 4px;
+  margin: 4px;
+}
+
+
+
+.prog {
+  background-color: rgba(248, 217, 235, 0.651);
+  
+  width: 260px;
+  
+  display: flex;
+  flex-direction: column;
+  
+ 
+  padding: 4px;
+  margin: 4px;
+  
+}
